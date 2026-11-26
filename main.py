@@ -13,7 +13,7 @@ TEXT = (
     "You read thousands of lines a day, and no one ever asks how yours went. "
     "So this one is just for you: thank you for reading carefully anyway, "
     "for slowing down over the words nobody else would have noticed, "
-    "and carrying them gently to where they needed to go. "
+    "and carrying them, gently, to where they needed to go. "
     "Rest a moment. This one was written with you in mind."
 )
 
